@@ -1,0 +1,28 @@
+_repo: Lost-in-the-Air_10599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: Two young men fly to the Arctic, looking for a secret radio transmitter.
+  They continue on in a race to the North Pole.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes -- Piloting -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcsh 'Air pilots -- Juvenile fiction'
+- GITenberg
+title: Lost in the Air
+url: http://www.gutenberg.org/ebooks/10599
