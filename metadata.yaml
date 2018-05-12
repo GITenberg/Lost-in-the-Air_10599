@@ -1,5 +1,8 @@
 _repo: Lost-in-the-Air_10599
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Snell, Roy J. (Roy Judson)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3593
 description: Two young men fly to the Arctic, looking for a secret radio transmitter.
   They continue on in a race to the North Pole.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10599#Lost-in-the-Air
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
